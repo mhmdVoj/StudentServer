@@ -8,8 +8,6 @@ import com.android.volley.Request;
 import com.android.volley.Response;
 import com.android.volley.toolbox.HttpHeaderParser;
 import com.google.gson.Gson;
-import com.google.gson.JsonObject;
-
 import org.json.JSONObject;
 
 import java.lang.reflect.Type;
